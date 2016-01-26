@@ -1,5 +1,5 @@
 #SteamRO
-SteamRO é um servidor privado de Ragnarök Online. Temos como a missão fazer um servidor que ofereça coisas diferentes jamais vistas neste cenário. O projeto já foi traçado e nós da equipe temos para si que é algo a longo prazo. O servidor não vai sair de uma hora para a outra pois requer tempo e testes para que tudo corra dentro dos eixos e todos nós queremos oferecer uma experiência única aos jogadores e isso tem que ser feito com cautela.
+SteamRO é um servidor privado de Ragnarök Online. Temos como missão fazer um servidor que ofereça coisas diferentes jamais vistas neste cenário. O projeto já foi traçado e nós da equipe temos para si que é algo a longo prazo ou seja, o servidor não vai sair de uma hora para a outra pois requer tempo e testes para que tudo corra dentro dos eixos e todos nós queremos oferecer uma experiência única aos jogadores e isso tem que ser feito com cautela.
 
 <h4>Emulador:</h4>
 rAthena (base) com modificações e implementações nossas.
