@@ -10,6 +10,10 @@ Um servidor privado de Ragnarök Online totalmente diferente. Prometemos inovaç
 [Steam] DevRB<br/>
 [Steam] Lunar
 
+<h3>Website</h3>
+[Steam] Jason<br/>
+[Steam] DevRB
+
 <h3>Contratados</h3>
 Alisson Martins
 
