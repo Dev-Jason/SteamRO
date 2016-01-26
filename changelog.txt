@@ -1,0 +1,40 @@
+////////////////////////////////////////////////////
+//   _____ _                       _____   ____   //
+//  / ____| |                     |  __ \ / __ \  //
+// | (___ | |_ ___  __ _ _ __ ___ | |__) | |  | | //
+//  \___ \| __/ _ \/ _` | '_ ` _ \|  _  /| |  | | //
+//  ____) | ||  __/ (_| | | | | | | | \ \| |__| | //
+// |_____/ \__\___|\__,_|_| |_| |_|_|  \_\\____/  //
+////////////////////////////////////////////////////                                               
+// Changelog
+
+// Client Side
+// 03.08.2015
++ Chat Flood: Permitido 5 linhas (funcional);		//Dev.Jason
++ Auto Follow: Desativado;		//Dev.Jason
+// 15.10.2015
++ Tradução de todas strings do servidor;		//Dev.RB, Alisson Martins (Contratado)
+// 20.10.2015
++ Iniciado o desenvolvimento do Steam Eye		//Dev.Jason
+
+// Server Side
+// 10.01.2015
++ Iniciado sistema de Builds automáticas;		//Dev.RB
+// 12.01.2015
++ Adicionada novas classes na Lib;		//Dev.RB
+// 14.01.2015
+- Remoção de atributos em excesso do sistema de Builds automáticas;		//Dev.Lunar	[*Comentário do Desenvolvedor: Não se encaixa no level atual do projeto*]
++ Revisão das Builds automáticas do sistema de Builds automáticas;		//Dev.Lunar
+// 23.01.2015
++ Adicionada novas classes na Lib do sistema de Builds automáticas;		//Dev.Lunar
+ 
+
+
+// Conf
+// 23.01.2016
++ Munições e Flechas não são consumidas;		//Dev.RB
++ Monstros apresentam a sua porcentagem de vida, apenas;		//Dev.RB
+
+// Website
+// 22.01.2016
++ Iniciado o desenvolvimento do SteamRO Trade;	//Dev.Jason
