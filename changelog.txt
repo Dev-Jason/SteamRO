@@ -23,10 +23,15 @@
 // 12.01.2015
 + Adicionada novas classes na Lib;		//Dev.RB
 // 14.01.2015
-- Remoção de atributos em excesso do sistema de Builds automáticas;		//Dev.Lunar	[*Comentário do Desenvolvedor: Não se encaixa no level atual do projeto*]
+- Remoção de atributos em excesso do sistema de Builds automáticas; [*Comentário do Desenvolvedor: Não se encaixa no level atual do projeto*]  //Dev.Lunar
 + Revisão das Builds automáticas do sistema de Builds automáticas;		//Dev.Lunar
 // 23.01.2015
 + Adicionada novas classes na Lib do sistema de Builds automáticas;		//Dev.Lunar
+// 27.01.2015
++ Os npc's iniciais do sistema de Builds Automáticas foram renomeados para melhor entendimento dos jogadores. Agora os npc's serão distribuidos de acordo com a sua facção. [*Comentário do Desenvolvedor: Poderemos aproveitar melhor esse quesito de facção no futuro, então resolvemos implementá-lo logo.*];  //Dev.Lunar
++ Algumas builds do sistema de Builds Automáticas novamente foram revisionadas e modificadas para melhor encaixar com algumas
+builds;  //Dev.Lunar
++ Melhorias iniciais implementadas a todos os Taekwons;  //Dev.Lunar
  
 
 
