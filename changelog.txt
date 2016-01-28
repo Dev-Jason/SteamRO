@@ -30,7 +30,8 @@ no level atual do projeto*]  //Dev.Lunar
 + Adicionada novas classes na Lib do sistema de Builds automáticas;		//Dev.Lunar
 // 27.01.2015
 + Os npc's iniciais do sistema de Builds Automáticas foram renomeados para melhor entendimento dos jogadores. 
-Agora os npc's serão distribuidos de acordo com a sua facção. [*Comentário do Desenvolvedor: Poderemos aproveitar melhor esse quesito de facção no futuro, então resolvemos implementá-lo logo.*];  //Dev.Lunar
+Agora os npc's serão distribuidos de acordo com a sua facção. [*Comentário do Desenvolvedor: Poderemos aproveitar melhor esse 
+quesito de facção no futuro, então resolvemos implementá-lo logo.*];  //Dev.Lunar
 + Algumas builds do sistema de Builds Automáticas novamente foram revisionadas e modificadas para melhor encaixar com algumas
 builds;  //Dev.Lunar
 + Melhorias iniciais implementadas a classe Taekwon;  //Dev.Lunar
