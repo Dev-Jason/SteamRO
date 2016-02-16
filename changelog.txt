@@ -18,23 +18,27 @@
 + Iniciado o desenvolvimento do Steam Eye		//Dev.Jason
 
 // Server Side
-// 10.01.2015
+// 10.01.2016
 + Iniciado sistema de Builds automáticas;		//Dev.RB
-// 12.01.2015
+// 12.01.2016
 + Adicionada novas classes na Lib;		//Dev.RB
-// 14.01.2015
+// 14.01.2016
 - Remoção de atributos em excesso do sistema de Builds automáticas; [*Comentário do Desenvolvedor: Não se encaixa 
 no level atual do projeto*]  //Dev.Lunar
 + Revisão das Builds automáticas do sistema de Builds automáticas;		//Dev.Lunar
-// 23.01.2015
+// 23.01.2016
 + Adicionada novas classes na Lib do sistema de Builds automáticas;		//Dev.Lunar
-// 27.01.2015
+// 27.01.2016
 + Os npc's iniciais do sistema de Builds Automáticas foram renomeados para melhor entendimento dos jogadores. 
 Agora os npc's serão distribuidos de acordo com a sua facção. [*Comentário do Desenvolvedor: Poderemos aproveitar melhor esse 
 quesito de facção no futuro, então resolvemos implementá-lo logo.*];  //Dev.Lunar
 + Algumas builds do sistema de Builds Automáticas novamente foram revisadas e modificadas para melhor encaixar com algumas
 builds existentes;  //Dev.Lunar
-+ Melhorias iniciais implementadas a classe Taekwon;  //Dev.Lunar
++ Melhorias iniciais implementadas a classe Taekwon Kid;  //Dev.Lunar
+// 10.02.2016
++ A classe Taekwon Kid foi adicionada na Lib do sistema de Builds Automáticas;  //Dev.Lunar
+// 15.02.2016
++ Implementada uma melhoria na Lib do sistema de Builds Automáticas voltado para a classe Taekwon Kid;  //Dev.RB
  
 
 
