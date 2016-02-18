@@ -39,6 +39,9 @@ builds existentes;  //Dev.Lunar
 + A classe Taekwon Kid foi adicionada na Lib do sistema de Builds Automáticas;  //Dev.Lunar
 // 15.02.2016
 + Implementada uma melhoria na Lib do sistema de Builds Automáticas voltado para a classe Taekwon Kid;  //Dev.RB
+// 18.02.2016
++ A classe Gunslinger foi adicionada na Lib do sistema de Builds Automáticas;  //Dev.Lunar
++ A classe Gunslinger teve uma melhoria implementada no sistema de Builds Automáticas;  //Dev.Lunar
  
 
 
